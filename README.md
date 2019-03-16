@@ -24,6 +24,12 @@ A real time messaging app designed for seamless communication via texts.
 ### Server used
 * Node
 
+### Hosting Service
+* Heroku
+
+### Database Used
+* MongoDB Atlas
+
 
 
 
